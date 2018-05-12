@@ -1,0 +1,29 @@
+_repo: Jumalan-kiitos-p-yt--on-katettuHuvin-ytelm--yhdess--n-yt-ksess-_38133
+_version: 0.1.0
+alternative_title: Eigensinn. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benedix, Roderich
+    alias: Benedix, Julius Roderich
+    birthdate: 1811
+    deathdate: 1873
+    gutenberg_agent_id: '32338'
+    url: http://www.gutenberg.org/2009/agents/32338
+    wikipedia: http://en.wikipedia.org/wiki/Roderich_Benedix
+description: ''
+gutenberg_issued: '2011-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38133'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German drama (Comedy) -- Translations into Finnish'
+- !lcc 'PT'
+title: 'Jumalan kiitos, pöytä on katettu: Huvinäytelmä yhdessä näytöksessä'
+url: http://www.gutenberg.org/ebooks/38133
