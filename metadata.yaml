@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32338
     wikipedia: http://en.wikipedia.org/wiki/Roderich_Benedix
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38133#Jumalan-kiitos-p-yt--on-katettuHuvin-ytelm--yhdess--n-yt-ksess-
 gutenberg_issued: '2011-11-25'
 gutenberg_type: Text
 identifiers:
